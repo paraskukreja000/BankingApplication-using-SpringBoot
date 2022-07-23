@@ -1,0 +1,9 @@
+.homePage-details{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 10%;
+}
+h2{
+    margin-bottom: 10%;
+}
